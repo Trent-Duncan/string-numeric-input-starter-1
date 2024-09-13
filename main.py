@@ -3,8 +3,8 @@
 # String & Numeric Input 
 
 # Task 1
-# Comment
-# Comment
+first_name = 'Trent'
+print(f'Hello, {first_name}!')
 
 
 
@@ -31,14 +31,4 @@
 
 
 
-# Task 5
-# Comment
-# Comment
 
-
-
-
-
-# Part 5
-# Comment
-# Comment
