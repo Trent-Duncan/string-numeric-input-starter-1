@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Trent Duncan
+# 9/13/24
 # String & Numeric Input 
 
 # Task 1
